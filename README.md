@@ -1,11 +1,11 @@
 <h1 align="center"><b>Hi , I'm Mahmoud Feshar</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=FF000000&center=true&vCenter=true&random=true&width=435&lines=Computer+Engineering+student;ALX+Software+Engineering+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Computer+Engineering+student;ALX+Software+Engineering+student)](https://git.io/typing-svg)
 
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="328793292_6279029448776663_245792487743403659_n.jpg" width = 250px></picture>
 
 <br>
 

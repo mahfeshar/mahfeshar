@@ -7,13 +7,13 @@
 
 ## <img src = "https://vectorified.com/images/about-me-icon-png-19.png" width = 21px> **About me**
 
-<picture> <img align="right" src="https://github.com/mahfeshar/mahfeshar/blob/main/Photo/328793292_6279029448776663_245792487743403659_n.jpg?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/mahfeshar/mahfeshar/blob/main/Photo/328793292_6279029448776663_245792487743403659_n.jpg?raw=true" width = 200px></picture>
 
 <br>
 
 - Student at Faculty of Engineering - Tanta University, Computer Engineering Department.
 - Currently enrolled in the ALX Software Engineering program.
-- Interested in developing web and mobile applications using .NET and Flutter.
+- Interested in developing web applications using .NET.
 
 <br>
 

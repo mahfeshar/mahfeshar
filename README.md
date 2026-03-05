@@ -1,10 +1,8 @@
 <h1 align="center"><b>Hi, I'm Mahmoud Feshar 👋</b></h1>
 
-<p align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Backend+Engineer;ASP.NET+Core+Specialist;Building+Scalable+Systems" alt="Typing SVG" />
-</a>
-</p>
+<div align="center">
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Geom&weight=500&pause=1000&color=F71353&center=true&vCenter=true&width=500&height=60&lines=Software+Engineer;Full+Stack+(ASP.NET+-+Blazor)" alt="Typing SVG" /></a>
+</div>
 
 <p align="center">
 🚀 <b>Explore My Digital Garden</b><br>
